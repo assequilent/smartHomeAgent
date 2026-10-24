@@ -1,0 +1,7 @@
+time,room,temp,motion,doorState,controllerMode
+01-10-2025_08:00:00,living_room,21.5,true,closed,auto
+01-10-2025_08:10:00,kitchen,22.0,true,closed,auto
+01-10-2025_08:20:00,hallway,20.5,false,open,alert
+01-10-2025_08:30:00,bedroom,20.8,false,closed,night
+01-10-2025_08:40:00,living_room,22.1,true,closed,auto
+01-10-2025_08:50:00,kitchen,22.3,false,closed,auto
